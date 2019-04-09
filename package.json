@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/binance-candle-to-record",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Map a Binance candle to a talib record",
   "main": "dist/binance-candle-to-record.js",
   "types": "dist/binance-candle-to-record.d.ts",
