@@ -45,7 +45,7 @@ Related
 -------
 
 *   [timeseries-record](https://github.com/strong-roots-capital/timeseries-record)
-*   [to-binance-timeframe](https://github.com/strong-roots-capital/to-binance-timeframe) -
+*   [to-binance-timeframe](https://github.com/strong-roots-capital/to-binance-timeframe)
 
 ## Index
 
@@ -63,7 +63,7 @@ Related
 
 ▸ **binanceCandleToRecord**(candle: *`binanceCandle`*): `Record`
 
-*Defined in [binance-candle-to-record.ts:13](https://github.com/strong-roots-capital/binance-candle-to-record/blob/2e2373f/src/binance-candle-to-record.ts#L13)*
+*Defined in [binance-candle-to-record.ts:13](https://github.com/strong-roots-capital/binance-candle-to-record/blob/4bbcd3b/src/binance-candle-to-record.ts#L13)*
 
 Transform a Binance Candle output to a timeseries record.
 
