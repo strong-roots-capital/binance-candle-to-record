@@ -41,4 +41,3 @@ binanceCandleToRecord(binanceRecord)
 
 - [timeseries-record](https://github.com/strong-roots-capital/timeseries-record)
 - [to-binance-timeframe](https://github.com/strong-roots-capital/to-binance-timeframe)
--
