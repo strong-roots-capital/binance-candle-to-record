@@ -11,7 +11,7 @@ npm install @strong-roots-capital/binance-candle-to-record
 ## Use
 
 ```typescript
-import { binanceCandleToRecord } from '@strong-roots-capital/binance-candle-to-record'
+import binanceCandleToRecord from '@strong-roots-capital/binance-candle-to-record'
 
 const binanceRecord = {
     openTime: 1508328900000,
